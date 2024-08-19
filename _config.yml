@@ -6,7 +6,11 @@ academic_email: ttz178473@iitd.ac.in
 description: > # this means to ignore newlines until "baseurl:"
   Dedicated Ph.D. student specializing in Textile and Fibre Engineering at the Indian Institute of Technology Delhi. Research focuses on the study of shape memory coupled piezoelectric nanocomposites.
 
-baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
+
+url: cictema.github.io
+baseurl: /anupam-portfolio
+
+# baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
 url: "" # the base hostname & protocol for your site
 
