@@ -4,138 +4,94 @@ permalink: /research/
 title: Research
 ---
 
+# Articles
 
-<h2>Publications</h2>
-<ul>
-	<li>
-		<b>Wearable, Machine Washable, Breathable Polyethyleneimine/ Sodium Alginate Layer-by-Layer Coated Cotton Based Multifunctional Triboelectric Nanogenerator.</b><br>
-		<i>Das, S., Chowdhury, A., & Ali, S. W. </i><br>
-		ACS Applied Materials and Interfaces, 2024<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>ZnSnO3-Based Hybrid Piezoelectric Materials</b><br>
-		<i>Chowdhury, A., Das, S., Mirlekar, M. N., & Ali, S. W.</i><br>
-		Hybrid Materials for Piezoelectric Energy Harvesting and Conversion, 2024<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Cellulose-Based Hybrid Piezoelectric Materials. Hybrid Materials for Piezoelectric Energy Harvesting and Conversion</b><br>
-		<i>Das, S., Mirlekar, M. N., Banerjee, S., Chowdhury, A., & Ali, S. W.</i><br>
-		Hybrid Materials for Piezoelectric Energy Harvesting and Conversion, 2024<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>A Critical Review on Triboelectric Nanogenerators (TENGs) with Flame Retardant, Antibacterial, Self-Cleaning, or Water Repellent Properties. </b><br>
-		<i>Das, S., Chowdhury, A., & Ali, S. W.</i><br>
-		ACS Applied Electronic Materials, 6(4), 2093-2119., 2024<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Flexible PEI/PVDF Blend Films with an Enhanced Curie Temperature for Piezoelectric Energy Harvesting</b><br>
-		<i>Roy, S., Chowdhury, A., Joshi, M., & Ali, S. W.</i><br>
-		ACS Applied Electronic Materials, 6(4), 2142-2151, 2024<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Flexible and high-temperature stable nanofiber composite made of PEI/KNN for energy harvesting.</b><br>
-		<i>Roy, S., Chowdhury, A., Joshi, M., & Ali, W.</i><br>
-		Journal of Materials Science, 59(1), 171-187, 2024 <br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>15 Smart textiles for energy harvesting applications in Smart and Functional Textiles </b><br>
-		<i>Chowdhury, A., Das, S., & Ali, W. (2023)</i><br>
-		De Gruyter, 2024<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Composite Electrospun Nanofibers for Energy Scavenging Applications</b><br>
-		<i>Chowdhury, A., Bairagi, S., Kumar, B., & Ali, S. W. </i><br>
-		Nanotechnology in Textiles, 2020<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Polybutylene succinate based bionanocomposites for food packaging applications.</b><br>
-		<i>Ali, S. W., & Chowdhury, A.</i><br>
-		Bionanocomposites for Food Packaging Applications (pp. 165-
-180), 2024<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Biodegradable nanocomposites: Effective alternative of synthetic polymer in electronic industries.</b><br>
-		<i>Ali, S. W., Bairagi, S., & Chowdhury, A.</i><br>
-		Green Nanomaterials for Industrial Applications, 2022<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Cellulose-based bionanocomposites in tissue engineering and regenerative medicine.</b><br>
-		<i>Ali, S. W., Chowdhury, A., Nath, J., Dolui, S. K., & Gadkari, R. R.</i><br>
-		Bionanocomposites in Tissue Engineering and Regenerative Medicine (pp. 451-463)., 2021<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Green nanomaterials for multifunctional textile finishes.</b><br>
-		<i>Chowdhury, A., Das, S., Mirlekar, M. N., & Ali, S. W.</i><br>
-		Green Functionalized Nanomaterials for Environmental Applications (pp. 343-364), 2022<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Bio resources mediated technological advancements in chemical finishing of textiles</b><br>
-		<i>Ali, S. W., Chowdhury, A., Banerjee, S., & Bairagi, S.</i><br>
-		Applications of Biotechnology for Sustainable Textile Production (pp. 187-220), 2022<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br><li>
-		<b>Bio resources mediated technological advancements in chemical finishing of textiles</b><br>
-		<i>Chowdhury, A., Das, S., Mirlekar, M. N., & Ali, S. W.</i><br>
-		Hybrid Materials for Piezoelectric Energy Harvesting and Conversion, 2024<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br><li>
-		<b>Chitosan-based bionanocomposites for food packaging applications. </b><br>
-		<i>Gadkari, R. R., Garg, H., Chowdhury, A., & Ali, W. </i><br>
-		Bionanocomposites for Food Packaging Applications (pp. 181-200), 2022<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Investigating the role of copper oxide (CuO) nanorods in designing flexible piezoelectric nanogenerator composed of polyacrylonitrile (PAN) electrospun web-based fibrous material</b><br>
-		<i>Bairagi, S., Chowdhury, A., Banerjee, S., Thakre, A., Saini, A., & Ali, S. W.</i><br>
-		Journal of Materials Science: Materials in Electronics, 33(16), 13152-13165, 2022<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Leveraging shape memory coupled piezoelectric properties in melt extruded composite filament based on polyvinylidene fluoride and polyurethane. </b><br>
-		<i>Chowdhury, A., Bairagi, S., Ali, S. W., & Kumar, B.</i><br>
-		Macromolecular Materials and Engineering, 305(12), 2000296, 2020<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Green chemistry: its opportunities and challenges in colouration and chemical finishing of textiles. </b><br>
-		<i>Raj, A., Chowdhury, A., & Ali, S. W. </i><br>
-		Sustainable Chemistry and Pharmacy, 27, 100689., 2022<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Development of a sustainable and flexible piezoelectric-cum-triboelectric energy harvester comprising a simple commodity cotton fabric.</b><br>
-		<i>Bairagi, S., Banerjee, S., Chowdhury, A., & Ali, S. W.</i><br>
-		ACS Sustainable Chemistry & Engineering, 9(11), 4004-4013, 2021<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Acrylic acid grafted gelatin/LDH based biocompatible hydrogel with pH-controllable release of vitamin B12.</b><br>
-		<i>Nath, J., Ahmed, A., Saikia, P., Chowdhury, A., & Dolui, S. K.</i><br>
-		Applied Clay Science, 190, 105569, 2020<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Development of a gelatin‐g‐poly (acrylic acid‐co‐acrylamide)– montmorillonite superabsorbent hydrogels for in vitro controlled release of vitamin B12.</b><br>
-		<i>Nath, J., Chowdhury, A., Ali, I., & Dolui, S. K.</i><br>
-		Journal of Applied Polymer Science, 136(22), 47596, 2019<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Chitosan/graphene oxide‐based multifunctional pH‐responsive hydrogel with significant mechanical strength, self‐healing property, and shape memory effect.</b><br>
-		<i>Nath, J., Chowdhury, A., & Dolui, S. K. </i><br>
-		Advances in Polymer Technology, 37(8), 3665-3679., 2018<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-</ul>
+**Wearable, Machine Washable, Breathable Polyethyleneimine/Sodium Alginate Layer-by-Layer Coated Cotton Based Multifunctional Triboelectric Nanogenerators.**  
+*Das, S., Chowdhury, A., & Ali, S. W.*  
+ACS Applied Materials and Interfaces, 2024
+
+**Flexible PEI/PVDF Blend Films with an Enhanced Curie Temperature for Piezoelectric Energy Harvesting.**  
+*Roy, S., Chowdhury, A., Joshi, M., & Ali, S. W.*  
+ACS Applied Electronic Materials, 2024
+
+**A Critical Review on Triboelectric Nanogenerators (TENGs) with Flame Retardant Antibacterial Self-Cleaning or Water Repellent Properties.**  
+*Das, S., Chowdhury, A., & Ali, S. W.*  
+ACS Applied Electronic Materials, 2024
+
+**Flexible and High-Temperature Stable Nanofiber Composite Made of PEI/KNN for Energy Harvesting.**  
+*Roy, S., Chowdhury, A., Joshi, M., & Ali, W.*  
+Journal of Materials Science, 2024
+
+**Investigating the Role of Copper Oxide (CuO) Nanorods in Designing Flexible Piezoelectric Nanogenerator Composed of Polyacrylonitrile (PAN) Electrospun Web-Based Fibrous Material.**  
+*Bairagi, S., Chowdhury, A., Banerjee, S., Thakre, A., Saini, A., & Ali, S. W.*  
+Journal of Materials Science: Materials in Electronics, 2022
+
+**Green Chemistry: Its Opportunities and Challenges in Coloration and Chemical Finishing of Textiles.**  
+*Raj, A., Chowdhury, A., & Ali, S. W.*  
+Sustainable Chemistry and Pharmacy, 2022
+
+**Development of a Sustainable and Flexible Piezoelectric-cum-Triboelectric Energy Harvester Comprising a Simple Commodity Cotton Fabric.**  
+*Bairagi, S., Banerjee, S., Chowdhury, A., & Ali, S. W.*  
+ACS Sustainable Chemistry & Engineering, 2021
+
+**Leveraging Shape Memory Coupled Piezoelectric Properties in Melt Extruded Composite Filament Based on Polyvinylidene Fluoride and Polyurethane.**  
+*Chowdhury, A., Bairagi, S., Ali, S. W., & Kumar, B.*  
+Macromolecular Materials and Engineering, 2020
+
+**Acrylic Acid Grafted Gelatin/LDH-Based Biocompatible Hydrogel with pH-Controllable Release of Vitamin B12.**  
+*Nath, J., Ahmed, A., Saikia, P., Chowdhury, A., & Dolui, S. K.*  
+Applied Clay Science, 2020
+
+**Chitosan/Graphene Oxide-Based Multifunctional pH-Responsive Hydrogel with Significant Mechanical Strength, Self-Healing Property, and Shape Memory Effect.**  
+*Nath, J., Chowdhury, A., & Dolui, S. K.*  
+Advances in Polymer Technology, 2018
+
+**Development of a Gelatin-g-poly(Acrylic Acid-co-Acrylamide)–Montmorillonite Superabsorbent Hydrogels for In Vitro Controlled Release of Vitamin B12.**  
+*Nath, J., Chowdhury, A., Ali, I., & Dolui, S. K.*  
+Journal of Applied Polymer Science, 2019
+
+# Book Chapters
+
+**ZnSnO3-Based Hybrid Piezoelectric Materials.**  
+*Chowdhury, A., Das, S., Mirlekar, M. N., & Ali, S. W.*  
+Hybrid Materials for Piezoelectric Energy Harvesting and Conversion, 2024
+
+**Cellulose-Based Hybrid Piezoelectric Materials.**  
+*Das, S., Mirlekar, M. N., Banerjee, S., Chowdhury, A., & Ali, S. W.*  
+Hybrid Materials for Piezoelectric Energy Harvesting and Conversion, 2024
+
+**Smart Textiles for Energy Harvesting Applications.**  
+*Chowdhury, A., Das, S., & Ali, W.*  
+Smart and Functional Textiles, 2023
+
+**Bio Resources Mediated Technological Advancements in Chemical Finishing of Textiles.**  
+*Ali, S. W., Chowdhury, A., Banerjee, S., & Bairagi, S.*  
+Applications of Biotechnology for Sustainable Textile Production, 2022
+
+**Green Nanomaterials for Multifunctional Textile Finishes.**  
+*Ali, S. W., Chowdhury, A., Bairagi, S., & Banerjee, S.*  
+Green Functionalized Nanomaterials for Environmental Applications, 2022
+
+**Biodegradable Nanocomposites: Effective Alternative of Synthetic Polymer in Electronic Industries.**  
+*Ali, S. W., Chowdhury, A., Bairagi, S., & Banerjee, S.*  
+Green Nanomaterials for Industrial Applications, 2022
+
+**Chitosan-Based Bionanocomposites for Food Packaging Applications.**  
+*Gadkari, R. R., Garg, H., Chowdhury, A., & Ali, W.*  
+Bionanocomposites for Food Packaging Applications, 2022
+
+**Polybutylene Succinate-Based Bionanocomposites for Food Packaging Applications.**  
+*Ali, S. W., & Chowdhury, A.*  
+Bionanocomposites for Food Packaging Applications, 2022
+
+**Cellulose-Based Bionanocomposites in Tissue Engineering and Regenerative Medicine.**  
+*Ali, S. W., Chowdhury, A., Nath, J., Dolui, S. K., & Gadkari, R. R.*  
+Bionanocomposites in Tissue Engineering and Regenerative Medicine, 2021
+
+**Antibacterial Electrospun Nanofibres.**  
+*Ali, W., Gadkari, R., Arora, S., Somkuwar, V., & Chowdhury, A.*  
+Advanced Antimicrobial Materials and Applications, 2020
+
+**Composite Electrospun Nanofibers for Energy Scavenging Applications.**  
+*Chowdhury, A., Bairagi, S., Kumar, B., & Ali, S. W.*  
+Nanotechnology in Textiles, 2020

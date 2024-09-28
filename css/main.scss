@@ -12,10 +12,10 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #0077CC;
+$brand-color:      #16423C;
 
-$blue-color-dark: darken(#3E7AD1, 10%);
-$blue-color-light: #4B93DB;
+$blue-color-dark: darken(#6A9C89, 10%);
+$blue-color-light: #16423C;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -23,7 +23,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 
 // Width of the content area
-$content-width:    950px;
+$content-width:    1200px;
 
 $on-palm:          600px;
 $on-laptop:        950px;
@@ -43,3 +43,15 @@ $on-laptop:        950px;
     "syntax-highlighting",
 	"image"
 ;
+
+/* Apply blue color and underline to all links */
+a {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  /* Optional: Hover effect for links to change color or remove underline */
+  a:hover {
+    color: darkblue; /* Changes color to dark blue on hover */
+    text-decoration: underline; /* Keeps the underline on hover */
+  }
